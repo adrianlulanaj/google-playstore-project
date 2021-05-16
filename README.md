@@ -72,9 +72,13 @@ Use correct file path here to show picture of dimensional model...
 ### Business Intelligence Design and Development
 
 List of Visualizations for each KPI:
-1. Bar Chart for comparison of ...
-2.
-3.
+1. BFor Average Rating per Category, we used a heat map/list. This type of visualization was used because it allows us to have a total view of all the categories and their respective ratings. Any other visualization would most likely leave out some of the categories which defeats the purpose of this KPI as outlined previously.
+
+2. For No. Installs per Category, we used a treemap. The purpose of this KPI is to relate the total amount of installations for each category with one another. With a treemap, this allows us to visually see a difference between each category as the larger squares represent the categories that have more installations. The treemap is also color coded to show which categories have more installations.
+
+3. For Sentiment Per Category, we used a bar chart. The sentiment score can be broken up into two components: positive and negative, with a range of 0 to 1 for either. A bar chart allows us to depict both components for each category which we can differentiate with color coding. 
+
+
 ...
 
 BI Application Wireframe design:
@@ -89,4 +93,4 @@ Use correct file path here to show picture of Dashboard...
 
 ### Deployment
 
-The project was deployed on Tableau Public: (link here)
+The project was deployed on Tableau Online: https://prod-useast-b.online.tableau.com/#/site/amyw/workbooks/95521?:origin=card_share_link
