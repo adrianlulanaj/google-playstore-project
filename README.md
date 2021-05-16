@@ -1,12 +1,12 @@
 # google-playstore-project
-- author(s): author(s) here
-- date created: date created here
-- class: CIS 9440
+- Adrian Lulanaj, Yael Yana Reinus, Xiang Wang
+- Created May 16, 2021
+- CIS 9440
 
 Project Objective: Follow the Kimball Lifecycle to design and develop a public, cloud-based Data Warehouse with a functioning BI Applications
 
 Project Tools:
-The tools used to build this Data Warehouse were: (change this to make applicable to your project)
+The tools used to build this Data Warehouse were: 
 1. For data integration - python
 2. For data warehousing - Google BigQuery
 3. For Business Intelligence - Tableau
@@ -26,7 +26,7 @@ High-level Business Initiative:
 
 Determine whether there are specific factors that lead to the success of some apps.
 
-BI Sponsors and Stakeholders (who will own this project?)
+BI Sponsors and Stakeholders 
 
 Game developer app agencies. 
 
