@@ -85,7 +85,7 @@ Use correct file path here to show picture of Wireframe design...
 Picture of final Dashboard:
 
 Use correct file path here to show picture of Dashboard...
-![Alt text](/img/Dashboard.JPG)
+![Alt text](IMG/Final_Dashboard.png)
 
 ### Deployment
 
