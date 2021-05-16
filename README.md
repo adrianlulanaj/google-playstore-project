@@ -15,13 +15,13 @@ The tools used to build this Data Warehouse were:
 
 ### Project Planning
 
-Motivation for project:
+## Motivation for project:
 To seize opportunities within the mobile app market that can have promising yields.
 
-Description of the issues or opportunities the project will address:
+## Description of the issues or opportunities the project will address:
 The different factors of apps within the Google Play Store can be more thoroughly analyzed to uncover whether there are correlations that lead to the success of some apps.
 
-Project Business or Organization Value:
+## Project Business or Organization Value:
 High-level Business Initiative:
 
 Determine whether there are specific factors that lead to the success of some apps.
@@ -41,10 +41,10 @@ How long will this take? How much will this cost?
 We will be using Google BigQuery for cloud storage and future query. Our dataset is about 9MB for two datasets with the storage costs at $0.02/GB/month. Our estimated costs will be less than a dollar per month. 
 
 
-Data Sources:
+## Data Sources:
+Both datasets are included in this Kaggle link.
 1.https://www.kaggle.com/lava18/google-play-store-apps?select=googleplaystore.csv 
-2.
-...
+
 
 ### Business Requirements Definition
 
@@ -55,7 +55,7 @@ List of Data Warehouse KPI's:
 4. Average rating in each category
 5. Average price in each category
 6. positive/negative sentiment score per category 
-...
+
 
 ### Dimensional Model
 
@@ -79,7 +79,6 @@ List of Visualizations for each KPI:
 3. For Sentiment Per Category, we used a bar chart. The sentiment score can be broken up into two components: positive and negative, with a range of 0 to 1 for either. A bar chart allows us to depict both components for each category which we can differentiate with color coding. 
 
 
-...
 
 BI Application Wireframe design:
 
