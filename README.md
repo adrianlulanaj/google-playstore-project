@@ -62,7 +62,7 @@ This project's Dimensional Model consists of 2 Facts and 3 Dimensions
 
 This project's Kimball Bus Matrix:
 
-![Alt text](IMG/Kimball_Bus_Matrix.png)
+![Alt text](IMG/Kimball_Bus-Matrix.png)
 
 ### Business Intelligence Design and Development
 
