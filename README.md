@@ -22,24 +22,21 @@ To seize opportunities within the mobile app market that can have promising yiel
 The different factors of apps within the Google Play Store can be more thoroughly analyzed to uncover whether there are correlations that lead to the success of some apps.
 
 ## Project Business or Organization Value:
-High-level Business Initiative:
+### High-level Business Initiative:
 
 Determine whether there are specific factors that lead to the success of some apps.
 
-BI Sponsors and Stakeholders 
+### BI Sponsors and Stakeholders 
 
 Game developer app agencies. 
 
-What’s the Business Value?
+### What’s the Business Value?
 
 If we can determine whether there are certain factors that lead to success of some apps, then the game developer app agencies that are our stakeholders can tailor their development with these factors in mind, increasing the probability of success and profitability of these apps. 
 
-How long will this take? How much will this cost?
+### How long will this take? How much will this cost?
 
-3 months - the length of this course
-
-We will be using Google BigQuery for cloud storage and future query. Our dataset is about 9MB for two datasets with the storage costs at $0.02/GB/month. Our estimated costs will be less than a dollar per month. 
-
+3 months - the length of this course. We will be using Google BigQuery for cloud storage and future query. Our dataset is about 9MB for two datasets with the storage costs at $0.02/GB/month. Our estimated costs will be less than a dollar per month. 
 
 ## Data Sources:
 Both datasets are included in this Kaggle link.
