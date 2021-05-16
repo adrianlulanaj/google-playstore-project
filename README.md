@@ -62,7 +62,7 @@ List of Data Warehouse KPI's:
 This project's Dimensional Model consists of 2 Facts and 3 Dimensions
 
 Use correct file path here to show picture of dimensional model...
-![Alt text](IMG/Dashboard_Wireframe.png)
+![Alt text](IMG/Dimensional_Model.png)
 
 This project's Kimball Bus Matrix:
 
